@@ -1,0 +1,236 @@
+Country;geo;zone;island;c2020
+Burundi;Africa;east;no;11890781
+Comoros;Africa;east;no;869595
+Djibouti;Africa;east;no;988002
+Eritrea;Africa;east;no;3546427
+Ethiopia;Africa;east;no;114963583
+Kenya;Africa;east;no;53771300
+Madagascar;Africa;east;yes;27691019
+Malawi;Africa;east;no;19129955
+Mauritius;Africa;east;no;1271767
+Mayotte;Africa;east;no;272813
+Mozambique;Africa;east;no;31255435
+Réunion;Africa;east;no;895308
+Rwanda;Africa;east;no;12952209
+Seychelles;Africa;east;no;98340
+Somalia;Africa;east;no;15893219
+South Sudan;Africa;east;no;11193729
+Uganda;Africa;east;no;45741000
+United Republic Of Tanzania;Africa;east;no;59734213
+Zambia;Africa;east;no;18383956
+Zimbabwe;Africa;east;no;14862927
+Angola;Africa;middle;no;32866267
+Cameroon;Africa;middle;no;26545864
+Central African Republic;Africa;middle;no;4829764
+Chad;Africa;middle;no;16425859
+Congo;Africa;middle;no;5518092
+Democratic Republic Of The Congo;Africa;middle;no;89561404
+Equatorial Guinea;Africa;middle;no;1402985
+Gabon;Africa;middle;no;2225728
+Sao Tome And Principe;Africa;middle;no;219161
+Botswana;Africa;south;no;2351625
+Eswatini;Africa;south;no;1160164
+Lesotho;Africa;south;no;2142252
+Namibia;Africa;south;no;2540916
+South Africa;Africa;south;no;59308690
+Benin;Africa;west;no;12123198
+Burkina Faso;Africa;west;no;20903278
+Cabo Verde;Africa;west;no;555988
+Cote D'Ivoire;Africa;west;no;26378275
+Gambia;Africa;west;no;2416664
+Ghana;Africa;west;no;31072945
+Guinea;Africa;west;no;13132792
+Guinea-Bissau;Africa;west;no;1967998
+Liberia;Africa;west;no;5057677
+Mali;Africa;west;no;20250834
+Mauritania;Africa;west;no;4649660
+Niger;Africa;west;no;24206636
+Nigeria;Africa;west;no;206139587
+Saint Helena;Africa;west;no;6071
+Senegal;Africa;west;no;16743930
+Sierra Leone;Africa;west;no;7976985
+Togo;Africa;west;no;8278736
+Algeria;Africa;North;no;43851043
+Egypt;Africa;North;no;102334403
+Libya;Africa;North;no;6871287
+Morocco;Africa;North;no;36910558
+Sudan;Africa;North;no;43849269
+Tunisia;Africa;North;no;11818618
+other;Africa;North;no;597330
+Armenia;Asia;west;no;2963234
+Azerbaijan;Asia;west;no;10139175
+Bahrain;Asia;west;no;1701583
+Cyprus;Asia;west;no;1207361
+Georgia;Asia;west;no;3989175
+Iraq;Asia;west;no;40222503
+Israel;Asia;west;no;8655541
+Jordan;Asia;west;no;10203140
+Kuwait;Asia;west;no;4270563
+Lebanon;Asia;west;no;6825442
+Oman;Asia;west;no;5106622
+Qatar;Asia;west;no;2881060
+Saudi Arabia;Asia;west;no;34813867
+other;Asia;west;no;5101416
+Syrian Arab Republic;Asia;west;no;17500657
+Turkey;Asia;west;no;84339067
+United Arab Emirates;Asia;west;no;9890400
+Yemen;Asia;west;no;29825968
+Kazakhstan;Asia;middle;no;18776707
+Kyrgyzstan;Asia;middle;no;6524191
+Tajikistan;Asia;middle;no;9537642
+Turkmenistan;Asia;middle;no;6031187
+Uzbekistan;Asia;middle;no;33469199
+Afghanistan;Asia;south;no;38928341
+Bangladesh;Asia;south;no;164689383
+Bhutan;Asia;south;no;771612
+India;Asia;south;no;1380004385
+Iran (Islamic Republic Of);Asia;south;no;83992953
+Maldives;Asia;south;no;540542
+Nepal;Asia;south;no;29136808
+Pakistan;Asia;south;no;220892331
+Sri Lanka;Asia;south;no;21413250
+China;Asia;east;no;1439323774
+other;Asia;east;no;7496988
+other;Asia;east;no;649342
+other;Asia;east;no;23816775
+Korea Dem;Asia;east;no;25778815
+Japan;Asia;east;no;126476458
+Mongolia;Asia;east;no;3278292
+Republic Of Korea;Asia;east;no;51269183
+Brunei Darussalam;Asia;south;no;437483
+Cambodia;Asia;south;no;16718971
+Indonesia;Asia;south;no;273523621
+Lao People'S Democratic Republic;Asia;south;no;7275556
+Malaysia;Asia;south;no;32365998
+Myanmar;Asia;south;no;54409794
+Philippines;Asia;south;no;109581085
+Singapore;Asia;south;no;5850343
+Thailand;Asia;south;no;69799978
+Timor-Leste;Asia;south;no;1318442
+Viet Nam;Asia;south;no;97338583
+Anguilla;America;south;yes;15002
+Antigua And Barbuda;America;south;yes;97928
+Aruba;America;south;yes;106766
+Bahamas;America;south;yes;393248
+Barbados;America;south;yes;287371
+Bonaire, Sint Eustatius And Saba;America;south;yes;26221
+British Virgin Islands;America;south;yes;30237
+Cayman Islands;America;south;yes;65720
+Cuba;America;south;yes;11326616
+Curaçao;America;south;yes;164100
+Dominica;America;south;yes;71991
+Dominican Republic;America;south;yes;10847904
+Grenada;America;south;yes;112519
+Guadeloupe;America;south;yes;400127
+Haiti;America;south;yes;11402533
+Jamaica;America;south;yes;2961161
+Martinique;America;south;yes;375265
+Montserrat;America;south;yes;4999
+Puerto Rico;America;south;yes;2860840
+Saint Barthélemy;America;south;yes;9885
+Saint Kitts And Nevis;America;south;yes;53192
+Saint Lucia;America;south;yes;183629
+Saint Martin;America;south;yes;38659
+Saint Vincent And The Grenadines;America;south;yes;110947
+Sint Maarten;America;south;yes;42882
+Trinidad And Tobago;America;south;yes;1399491
+Turks And Caicos Islands;America;south;yes;38718
+United States Virgin Islands;America;south;yes;104423
+Belize;America;middle;no;397621
+Costa Rica;America;middle;no;5094114
+El Salvador;America;middle;no;6486201
+Guatemala;America;middle;no;17915567
+Honduras;America;middle;no;9904608
+Mexico;America;middle;no;128932753
+Nicaragua;America;middle;no;6624554
+Panama;America;middle;no;4314768
+Argentina;America;south;no;45195777
+Bolivia (Plurinational State Of);America;south;no;11673029
+Brazil;America;south;no;212559409
+Chile;America;south;no;19116209
+Colombia;America;south;no;50882884
+Ecuador;America;south;no;17643060
+Falkland Islands (Malvinas);America;south;no;3483
+French Guiana;America;south;no;298682
+Guyana;America;south;no;786559
+Paraguay;America;south;no;7132530
+Peru;America;south;no;32971845
+Suriname;America;south;no;586634
+Uruguay;America;south;no;3473727
+Venezuela (Bolivarian Republic Of);America;south;no;28435943
+Australia;Australia;south;yes;25499881
+New Zealand;Australia;south;yes;4822233
+Fiji;Australia;south;yes;896444
+New Caledonia;Australia;south;yes;285491
+Papua New Guinea;Australia;south;yes;8947027
+Solomon Islands;Australia;south;yes;686878
+Vanuatu;Australia;south;yes;307150
+Guam;Australia;south;yes;168783
+Kiribati;Australia;south;yes;119446
+Marshall Islands;Australia;south;yes;59194
+Micronesia;Australia;south;yes;115021
+Nauru;Australia;south;yes;10834
+Northern Mariana Islands;Australia;south;yes;57557
+Palau;Australia;south;yes;18092
+American Samoa;Australia;south;yes;55197
+Cook Islands;Australia;south;yes;17564
+French Polynesia;Australia;south;yes;280904
+Niue;Australia;south;yes;1618
+Samoa;Australia;south;yes;198410
+Tokelau;Australia;south;yes;1350
+Tonga;Australia;south;yes;105697
+Tuvalu;Australia;south;yes;11792
+Wallis And Futuna;Australia;south;yes;11246
+Belarus;Europe;east;no;9449321
+Bulgaria;Europe;east;no;6948445
+Czechia;Europe;east;no;10708982
+Hungary;Europe;east;no;9660350
+Poland;Europe;east;no;37846605
+Republic Of Moldova;Europe;east;no;4033963
+Romania;Europe;east;no;19237682
+Russian Federation;Europe;east;no;145934460
+Slovakia;Europe;east;no;5459643
+Ukraine;Europe;east;no;43733759
+other;Europe;North;no;173859
+Denmark;Europe;North;no;5792203
+Estonia;Europe;North;no;1326539
+Faroe Islands;Europe;North;no;48865
+Finland;Europe;North;no;5540718
+Iceland;Europe;North;no;341250
+Ireland;Europe;North;no;4937796
+Isle Of Man;Europe;North;no;85032
+Latvia;Europe;North;no;1886202
+Lithuania;Europe;North;no;2722291
+Norway;Europe;North;no;5421242
+Sweden;Europe;North;no;10099270
+United Kingdom;Europe;North;no;67886004
+Albania;Europe;south;no;2877800
+Andorra;Europe;south;no;77265
+Bosnia And Herzegovina;Europe;south;no;3280815
+Croatia;Europe;south;no;4105268
+Gibraltar;Europe;south;no;33691
+Greece;Europe;south;no;10423056
+Holy See;Europe;south;no;809
+Italy;Europe;south;no;60461828
+Malta;Europe;south;no;441539
+Montenegro;Europe;south;no;628062
+North Macedonia;Europe;south;no;2083380
+Portugal;Europe;south;no;10196707
+San Marino;Europe;south;no;33938
+Serbia;Europe;south;no;8737370
+Slovenia;Europe;south;no;2078931
+Spain;Europe;south;no;46754783
+Austria;Europe;west;no;9006400
+Belgium;Europe;west;no;11589616
+France;Europe;west;no;65273512
+Germany;Europe;west;no;83783945
+Liechtenstein;Europe;west;no;38137
+Luxembourg;Europe;west;no;625976
+Monaco;Europe;west;no;39244
+Netherlands;Europe;west;no;17134873
+Switzerland;Europe;west;no;8654618
+Bermuda;America;North;no;62273
+Canada;America;North;no;37742157
+Greenland;America;North;no;56772
+Saint Pierre And Miquelon;America;North;no;5795
+United States Of America;America;North;no;331002647
